@@ -1,0 +1,72 @@
+Mapping Summary
+
+Profile: CL-650
+Device: Bravo Throttle Quadrant
+
+ BUTTON         EVENT         VARIABLE                     VALUE 
+
+ increaseScrew  AP_INCREASE:  sim/autopilot/altitude_up          
+                              sim/autopilot/nose_up              
+                              sim/autopilot/heading_up           
+                              sim/radios/obs1_up                 
+                              sim/autopilot/airspeed_up          
+
+ decreaseScrew  AP_DECREASE:  sim/autopilot/altitude_down        
+                              sim/autopilot/nose_down            
+                              sim/autopilot/heading_down         
+                              sim/radios/obs1_down               
+                              sim/autopilot/airspeed_down        
+
+ iasScrew       Press:        INT:FCU_SELECTOR, string     IAS   
+
+ crsScrew       Press:        INT:FCU_SELECTOR, string     CRS   
+
+ hdgScrew       Press:        INT:FCU_SELECTOR, string     HDG   
+
+ vsScrew        Press:        INT:FCU_SELECTOR, string     VS    
+
+ altScrew       Press:        INT:FCU_SELECTOR, string     ALT   
+
+
+ UNUSED BUTTONS:
+ hdgBtn
+ navBtn
+ aprBtn
+ revBtn
+ altBtn
+ vsBtn
+ iasBtn
+ autoPilotBtn
+ lever2CRGA
+ lever3CRGA
+ lever4CRGA
+ lever5CRGA
+ flapsDown
+ flapsUp
+ trimNoseDown
+ trimNoseUp
+ lever1Detent
+ lever2Detent
+ lever3Detent
+ lever4Detent
+ lever5Detent
+ lever2GA
+ lever3CGA
+ gearUp
+ gearDown
+ lever6Detent
+ toggleButton1On
+ toggleButton1Off
+ toggleButton2On
+ toggleButton2Off
+ toggleButton3On
+ toggleButton3Off
+ toggleButton4On
+ toggleButton4Off
+ toggleButton5On
+ toggleButton5Off
+ toggleButton6On
+ toggleButton6Off
+ toggleButton7On
+ toggleButton7Off
+ lever4CGA
