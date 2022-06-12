@@ -268,12 +268,12 @@
       "Conditions": [
         {
           "Condition": "CL650/lamps/glareshield/FCP/hdg_1",
-          "ConditionValue": ">=0.9",
+          "ConditionValue": ">=0.25",
           "ConditionIsCustom": true
         },
         {
           "Condition": "CL650/lamps/glareshield/FCP/hdg_2",
-          "ConditionValue": ">=0.9",
+          "ConditionValue": ">=0.25",
           "ConditionIsCustom": true
         }
       ]
@@ -285,12 +285,12 @@
       "Conditions": [
         {
           "Condition": "CL650/lamps/glareshield/FCP/nav_1",
-          "ConditionValue": ">=0.9",
+          "ConditionValue": ">=0.25",
           "ConditionIsCustom": true
         },
         {
           "Condition": "CL650/lamps/glareshield/FCP/nav_2",
-          "ConditionValue": ">=0.9",
+          "ConditionValue": ">=0.25",
           "ConditionIsCustom": true
         }
       ]
@@ -302,12 +302,12 @@
       "Conditions": [
         {
           "Condition": "CL650/lamps/glareshield/FCP/appr_1",
-          "ConditionValue": ">=0.9",
+          "ConditionValue": ">=0.25",
           "ConditionIsCustom": true
         },
         {
           "Condition": "CL650/lamps/glareshield/FCP/appr_2",
-          "ConditionValue": ">=0.9",
+          "ConditionValue": ">=0.25",
           "ConditionIsCustom": true
         }
       ]
@@ -319,12 +319,12 @@
       "Conditions": [
         {
           "Condition": "CL650/lamps/glareshield/FCP/vnav_1",
-          "ConditionValue": ">=0.9",
+          "ConditionValue": ">=0.25",
           "ConditionIsCustom": true
         },
         {
           "Condition": "CL650/lamps/glareshield/FCP/vnav_2",
-          "ConditionValue": ">=0.9",
+          "ConditionValue": ">=0.25",
           "ConditionIsCustom": true
         }
       ]
@@ -336,12 +336,12 @@
       "Conditions": [
         {
           "Condition": "CL650/lamps/glareshield/FCP/alt_1",
-          "ConditionValue": ">=0.9",
+          "ConditionValue": ">=0.25",
           "ConditionIsCustom": true
         },
         {
           "Condition": "CL650/lamps/glareshield/FCP/alt_2",
-          "ConditionValue": ">=0.9",
+          "ConditionValue": ">=0.25",
           "ConditionIsCustom": true
         }
       ]
@@ -353,12 +353,12 @@
       "Conditions": [
         {
           "Condition": "CL650/lamps/glareshield/FCP/vs_1",
-          "ConditionValue": ">=0.9",
+          "ConditionValue": ">=0.25",
           "ConditionIsCustom": true
         },
         {
           "Condition": "CL650/lamps/glareshield/FCP/vs_2",
-          "ConditionValue": ">=0.9",
+          "ConditionValue": ">=0.25",
           "ConditionIsCustom": true
         }
       ]
@@ -370,12 +370,12 @@
       "Conditions": [
         {
           "Condition": "CL650/lamps/glareshield/FCP/flc_1",
-          "ConditionValue": ">=0.9",
+          "ConditionValue": ">=0.25",
           "ConditionIsCustom": true
         },
         {
           "Condition": "CL650/lamps/glareshield/FCP/flc_2",
-          "ConditionValue": ">=0.9",
+          "ConditionValue": ">=0.25",
           "ConditionIsCustom": true
         }
       ]
@@ -387,12 +387,12 @@
       "Conditions": [
         {
           "Condition": "CL650/lamps/glareshield/FCP/ap_eng_1",
-          "ConditionValue": ">=0.9",
+          "ConditionValue": ">=0.25",
           "ConditionIsCustom": true
         },
         {
           "Condition": "CL650/lamps/glareshield/FCP/ap_eng_2",
-          "ConditionValue": ">=0.9",
+          "ConditionValue": ">=0.25",
           "ConditionIsCustom": true
         }
       ]
